@@ -39,6 +39,9 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
 </p>
+<a href="https://flutter.dev" target="_blank">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+</a>
 
 ---
 
